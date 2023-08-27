@@ -1,0 +1,160 @@
+
+.big_bussiness_div{
+    background-color: rgba(0, 0, 0, 0.322);
+}
+.he_bussiness_der{
+    color: white;
+    margin-top: 30px ;
+    margin-bottom: 30px;
+}
+.bus_bussiness{
+    color: white;
+}
+.hr_bussiness{
+    width: 75px;
+    height: 1px;
+    background-color: #BF9B30;
+}
+.content_bussiness_2{
+    color: white;
+}
+.content_bussiness_main {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.span-icon-about {
+    position: absolute;
+    right: 2px;
+    bottom: 0;
+}
+.home-HERES-bussiness-THE{
+    font-size: 20px;
+    color: white;
+}
+.fon_bussiness_h2{
+   font-size: 40px; 
+   color: white;
+}
+.icon_bussiness_size{
+    font-size: 25px;
+    color:#c6c1c1;
+}
+ .icon-bussiness-span{
+    width: 120px; position: absolute; right: 0; bottom: 165px;
+} 
+.span-bussiness-icon{
+    position: absolute; top:35px ;right: 2px;
+}
+
+ @media(max-width : 567px) {
+    .contain_bussiness_1{
+        max-width: 100%;
+        border-radius: 10px;
+        width: 380px;
+        height: 410px;
+        background-color: rgba(0, 0, 0, 0.322);
+        padding: 25px;
+    }
+    .home-HERES-bussiness-THE{
+         font-size: 30px;
+    }
+    .h1_bussiness_des{
+        font-size: 40px;
+    }
+    .fon_bussiness_h2{
+        font-size: 20px; 
+    }
+    .contain_bussiness_1{
+        border-radius: 10px;
+        padding: 10px;
+        height: 320px;
+        margin: 10PX;
+        
+    }
+    .contain_bussines_12 {
+        margin-top: 15PX;
+    }
+   
+
+.icon-bussiness-span{
+    top: 0px;
+    width: 94px;
+    
+} 
+.span-bussiness-icon{
+    top: 0px;
+    width: 94px; 
+}
+.icon_bussiness_size{
+    font-size: 15px;
+}
+.mar_bussiness{
+    margin-top:-50px;
+}
+.big_bussiness_div{
+    margin-left: -12px;
+}
+.h1_bussiness_des{
+    font-size: 30px;
+}
+
+} 
+ 
+
+ 
+
+/*///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+.card_bussiness{
+    background-color: rgba(0, 0, 0, 0.215);
+    color:white;
+}
+.right_card_bussiness{
+    position: relative;
+    }
+.hr_bussiness_card{
+    margin: -10px 0px 11px 0px;
+    width: 70px;
+    height: .5px;
+    background-color: #BF9B30;
+
+}
+.h4_bussniess{
+    width: 70%;
+    font-size: 30px;
+}
+.span-bussinesss_icon2{
+    position: absolute;
+     right: 2px; 
+     bottom:0px;
+}
+.icon_bussines_sizze{
+  font-size: 25px;
+}
+.Tech-bussness-icon2{
+       padding-top: 40px;
+        font-size: 30px;
+    }
+@media(max-width : 567px) {
+    .h4_bussniess{
+        font-size:15px;
+        width: 100%;
+    }
+    .span-bussinesss_icon2{
+        top: 0px;
+    }
+    .icon_bussines_sizze{
+      font-size: 15px;
+    }
+    .right_card_bussiness{
+        margin-top: 15px;
+    }
+    .Tech-bussness-icon2{
+        display: none;
+    }
+   
+}
+ 
+
+
+ 
